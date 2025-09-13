@@ -1,6 +1,6 @@
 # stockmarket-project
 
-### Tejas Jambhale
+### Aryan Jambhale
 
 #### Tasks Completed
 1. All Backend microservices connected to Eureka Server and Config Server. Config server can be found on (https://github.com/tejas-jambhale/configserver)
